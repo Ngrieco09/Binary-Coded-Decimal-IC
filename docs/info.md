@@ -13,7 +13,7 @@ It takes 3 inputs that are binary values and makes it into a  decimal value.
 
 ## How to test
 
-Explain how to use your project
+BRuh use your project
 
 ## External hardware
 
