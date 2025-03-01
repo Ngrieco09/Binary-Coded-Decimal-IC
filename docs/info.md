@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It takes 3 inputs that are binary values and makes it into a  decimal value. 
 
 ## How to test
 
